@@ -19,6 +19,7 @@ Here are a few more facts about me:
 ![Rider](https://img.shields.io/badge/Editor-Rider-informational?style=flat-square&logo=rider&logoColor=white&color=2bbc8a)
 ![Intellij_IDEA](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=2bbc8a)
+![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=2bbc8a)
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=Git&logoColor=white&color=2bbc8a)
 ![GitLab](https://img.shields.io/badge/Tools-GitLab-informational?style=flat-square&logo=GitLab&logoColor=white&color=2bbc8a)
 ## GitHub Stats
