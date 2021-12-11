@@ -26,11 +26,8 @@ Here are a few more facts about me:
 
 
 ## Contact me
-<p align="left">
-  <a href=https://vk.com/nsbrokeboy" target="blank">
-  https://img.shields.io/badge/VK-nsbrokeboy-informational?style=flat-square&logo=vk&logoColor=white&color=0077ff
-  </a>
-</p>
+* <a href="https://t-do.ru/nsbrokeboy">Telegram</a>
+* <a href="https://instagram.com/nsbrokeboy">Instagram</a>
 
 
 
