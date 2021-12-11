@@ -7,7 +7,7 @@ Here are a few more facts about me:
 * I am into graphic design and beatmaking.
 
 ## 🔧 Technologies & Tools
-![C#](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=CShrap&logoColor=white&color=2bbc8a)
+![C#](https://img.shields.io/badge/Code-CSharp-informational?style=flat-square&logo=CShrap&logoColor=white&color=2bbc8a)
 
 ## GitHub Stats
 [![Описание картинки](https://github-readme-stats.vercel.app/api?username=nsbrokeboy&count_private=true&show_icons=true&title_color=68f67b&bg_color=0d1117&hide_border=true&icon_color=fafafa&text_color=fafafa&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
