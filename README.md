@@ -8,7 +8,8 @@ Here are a few more facts about me:
 
 ## 🔧 Technologies & Tools
 ![C#](https://img.shields.io/badge/Code-CSharp-informational?style=flat-square&logo=CShrap&logoColor=white&color=2bbc8a)
-
+![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
+![GitLab](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=2bbc8a)
 ## GitHub Stats
 [![Описание картинки](https://github-readme-stats.vercel.app/api?username=nsbrokeboy&count_private=true&show_icons=true&title_color=68f67b&bg_color=0d1117&hide_border=true&icon_color=fafafa&text_color=fafafa&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=nsbrokeboy&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
