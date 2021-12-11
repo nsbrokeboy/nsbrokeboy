@@ -1,6 +1,6 @@
 # Hello everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'am 19 years old and I'am .NET Software Developer. I'm from Russia, living in Kazan.
+I'am 19 years old and I'am .NET Software Developer. I'm from Kazan 🇷🇺.
 Here are a few more facts about me:
 * Programming on C# for 1 year
 * Studying at the Kazan Federal University (Applied Computer Science).
@@ -28,7 +28,7 @@ Here are a few more facts about me:
 ## Contact me
 * <a href="https://t-do.ru/nsbrokeboy">Telegram</a>
 * <a href="https://instagram.com/nsbrokeboy">Instagram</a>
-
+* <a href="https://vk.com/nsbrokeboy">VK</a>
 
 
 ## ​📈 GitHub Stats
