@@ -25,6 +25,14 @@ Here are a few more facts about me:
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=Git&logoColor=white&color=59d16b)
 
 
+## Contact me
+<p align="left">
+  <a href=https://vk.com/nsbrokeboy" target="blank">
+  https://img.shields.io/badge/VK-nsbrokeboy-informational?style=flat-square&logo=vk&logoColor=white&color=0077ff
+  </a>
+</p>
+
+
 
 ## ​📈 GitHub Stats
 [![Описание картинки](https://github-readme-stats.vercel.app/api?username=nsbrokeboy&count_private=true&show_icons=true&title_color=68f67b&bg_color=0d1117&hide_border=true&icon_color=fafafa&text_color=fafafa&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
