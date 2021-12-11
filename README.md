@@ -10,7 +10,10 @@ Here are a few more facts about me:
 ![C#](https://img.shields.io/badge/Code-CSharp-informational?style=flat-square&logo=csharp&logoColor=white&color=2bbc8a)
 ![DotNet](https://img.shields.io/badge/Code-.NET-informational?style=flat-square&logo=dotnet&logoColor=white&color=2bbc8a)
 ![PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=2bbc8a)
-![Rides](https://img.shields.io/badge/Editor-Rider-informational?style=flat-square&logo=rider&logoColor=white&color=2bbc8a)
+![Rider](https://img.shields.io/badge/Editor-Rider-informational?style=flat-square&logo=rider&logoColor=white&color=2bbc8a)
+![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat-square&logo=html5&logoColor=white&color=2bbc8a)
+![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat-square&logo=css3&logoColor=white&color=2bbc8a)
+![Bootstrap](https://img.shields.io/badge/Code-BootStrap-informational?style=flat-square&logo=bootstrap&logoColor=white&color=2bbc8a)
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=Git&logoColor=white&color=2bbc8a)
 ![GitLab](https://img.shields.io/badge/Tools-GitLab-informational?style=flat-square&logo=GitLab&logoColor=white&color=2bbc8a)
 ## GitHub Stats
