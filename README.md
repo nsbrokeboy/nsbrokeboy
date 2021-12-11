@@ -1,6 +1,6 @@
 # Hello everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'am 19 years old and I'am .NET Software Developer. I'm from Kazan 🇷🇺.
+I'am 19 years old and I'am .NET Software Developer. I'm from Kazan, Russia.
 Here are a few more facts about me:
 * Programming on C# for 1 year
 * Studying at the Kazan Federal University (Applied Computer Science).
