@@ -30,7 +30,7 @@ Here are a few more facts about me:
 * <a style="color: white" href="https://t-do.ru/nsbrokeboy">Telegram</a>
 * <a style="color: white" href="https://instagram.com/nsbrokeboy">Instagram</a>
 * <a style="color: white" href="https://vk.com/nsbrokeboy">VK</a>
-* e-mail: kruglyakdmitriy@icloud.com
+* kruglyakdmitriy@icloud.com
 
 
 ## ​📈 GitHub Stats
