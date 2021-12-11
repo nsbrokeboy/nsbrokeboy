@@ -26,9 +26,9 @@ Here are a few more facts about me:
 
 
 ## Contact me
-* <a href="https://t-do.ru/nsbrokeboy">Telegram</a>
-* <a href="https://instagram.com/nsbrokeboy">Instagram</a>
-* <a href="https://vk.com/nsbrokeboy">VK</a>
+* <a style="color: white" href="https://t-do.ru/nsbrokeboy">Telegram</a>
+* <a style="color: white" href "https://instagram.com/nsbrokeboy">Instagram</a>
+* <a style="color: white" href="https://vk.com/nsbrokeboy">VK</a>
 
 
 ## ​📈 GitHub Stats
