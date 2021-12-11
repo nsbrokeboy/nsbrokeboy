@@ -6,8 +6,9 @@ Here are a few more facts about me:
 * Studying at the Kazan Federal University (Applied Computer Science).
 * I am into graphic design and beatmaking.
 
+
 ## 🔧 Technologies & Tools
-![C#](https://img.shields.io/badge/Code-CSharp-informational?style=flat-square&logo=csharp&logoColor=white&color=59d16b)
+![C#](https://img.shields.io/badge/Code-CSharp-informational?style=for-the-badge&logo=csharp&logoColor=white&color=59d16b)
 ![DotNet](https://img.shields.io/badge/Code-.NET-informational?style=flat-square&logo=dotnet&logoColor=white&color=59d16b)
 ![PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=59d16b)
 ![ORM](https://img.shields.io/badge/ORM-EntityFramework-informational?style=flat-square&logo=entityframework&logoColor=white&color=59d16b)
