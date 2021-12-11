@@ -14,6 +14,7 @@ Here are a few more facts about me:
 ![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat-square&logo=html5&logoColor=white&color=2bbc8a)
 ![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat-square&logo=css3&logoColor=white&color=2bbc8a)
 ![Bootstrap](https://img.shields.io/badge/Code-BootStrap-informational?style=flat-square&logo=bootstrap&logoColor=white&color=2bbc8a)
+![Figma](https://img.shields.io/badge/Tools-Figma-informational?style=flat-square&logo=figma&logoColor=white&color=2bbc8a)
 ![Rider](https://img.shields.io/badge/Editor-Rider-informational?style=flat-square&logo=rider&logoColor=white&color=2bbc8a)
 ![Intellij_IDEA](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=Git&logoColor=white&color=2bbc8a)
