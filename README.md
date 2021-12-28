@@ -3,7 +3,7 @@
 I'am 19 years old and I'am .NET Software Developer. I'm from Kazan, Russia.
 
 Here are a few more facts about me:
-* Programming on C# for less than 1 year
+* Programming on C# for less than 1 year.
 * Studying at the Kazan Federal University (Applied Computer Science).
 * I am into graphic design and beatmaking.
 
