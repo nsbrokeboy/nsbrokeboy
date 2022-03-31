@@ -8,20 +8,26 @@ Here are a few more facts about me:
 
 
 ## 🔧 Technologies & Tools
-![C#](https://img.shields.io/badge/Code-CSharp-informational?style=flat-square&logo=csharp&logoColor=white&color=59d16b)
-![DotNet](https://img.shields.io/badge/Code-.NET-informational?style=flat-square&logo=dotnet&logoColor=white&color=59d16b)
-![PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=59d16b)
-![ORM](https://img.shields.io/badge/ORM-EntityFramework-informational?style=flat-square&logo=entityframework&logoColor=white&color=59d16b)
-![Java](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=white&color=59d16b)
-![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat-square&logo=html5&logoColor=white&color=59d16b)
-![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat-square&logo=css3&logoColor=white&color=59d16b)
-![Bootstrap](https://img.shields.io/badge/Code-BootStrap-informational?style=flat-square&logo=bootstrap&logoColor=white&color=59d16b)
-![Photoshop](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat-square&logo=photoshop&logoColor=white&color=59d16b)
-![Figma](https://img.shields.io/badge/Tools-Figma-informational?style=flat-square&logo=figma&logoColor=white&color=59d16b)
-![Rider](https://img.shields.io/badge/Editor-Rider-informational?style=flat-square&logo=rider&logoColor=white&color=59d16b)
-![Intellij_IDEA](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=59d16b)
-![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=59d16b)
-![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=59d16b)
+![C#](https://img.shields.io/badge/Code-CSharp-informational?style=flat-square&logo=csharp&logoColor=white&color=512BD4)
+![DotNet](https://img.shields.io/badge/Code-.NET-informational?style=flat-square&logo=dotnet&logoColor=white&color=512BD4)
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=white&color=512BD4)
+![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat-square&logo=html5&logoColor=white&color=512BD4)
+![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat-square&logo=css3&logoColor=white&color=512BD4)
+![Bootstrap](https://img.shields.io/badge/Code-BootStrap-informational?style=flat-square&logo=bootstrap&logoColor=white&color=512BD4)
+<br>
+![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=59d16b)
+![MSSQL](https://img.shields.io/badge/DB-MSSQL-informational?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white&color=59d16b)
+<br>
+![ORM](https://img.shields.io/badge/ORM-EntityFramework-informational?style=flat-square&logo=entityframework&logoColor=white&color=FF61F6)
+![Dapper](https://img.shields.io/badge/ORM-Dapper-informational?style=flat-square&logo=dapper&logoColor=white&color=FF61F6)
+<br>
+![Rider](https://img.shields.io/badge/Editor-Rider-informational?style=flat-square&logo=rider&logoColor=white&color=FF9E0F)
+![Visual Studio](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat-square&logo=visual-studio&logoColor=white&color=FF9E0F)
+![Intellij_IDEA](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=FF9E0F)
+<br>
+![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=FECC00)
+![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=FECC00)
+<br>
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=Git&logoColor=white&color=59d16b)
 
 
