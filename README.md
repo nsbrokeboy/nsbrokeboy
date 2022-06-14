@@ -1,4 +1,4 @@
-# Hello everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 I'm 20 years old and I'm .NET Software Developer. I'm from Kazan, Russia.
 
