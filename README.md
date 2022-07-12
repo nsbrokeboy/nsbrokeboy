@@ -1,11 +1,10 @@
 # Hello everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-I'm 20 years old and I'm .NET Software Developer. I'm from Kazan, Russia.
+I'am 20 years old .NET Software Developer from Kazan, Russia
 
 Here are a few more facts about me:
-* Programming on C# for less than 1 year.
-* I am into graphic design and beatmaking.
-
+* Programming on C# for less than 1 year
+* I am into graphic design and beatmaking
 
 ## 🔧 Technologies & Tools
 ![C#](https://img.shields.io/badge/Code-CSharp-informational?style=flat-square&logo=csharp&logoColor=white&color=512BD4)
