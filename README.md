@@ -19,7 +19,7 @@ Here are a few more facts about me:
 ![MSSQL](https://img.shields.io/badge/DB-MSSQL-informational?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white&color=59d16b)
 <br>
 ![ORM](https://img.shields.io/badge/ORM-EntityFramework-informational?style=flat-square&logo=entityframework&logoColor=white&color=FF61F6)
-![Dapper](https://img.shields.io/badge/ORM-Dapper-informational?style=flat-square&logo=dapper&logoColor=white&color=FF61F6)
+![NHibernate](https://img.shields.io/badge/ORM-NHibernate-informational?style=flat-square&logo=dapper&logoColor=white&color=FF61F6)
 <br>
 ![Rider](https://img.shields.io/badge/Editor-Rider-informational?style=flat-square&logo=rider&logoColor=white&color=FF9E0F)
 ![Visual Studio](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat-square&logo=visual-studio&logoColor=white&color=FF9E0F)
