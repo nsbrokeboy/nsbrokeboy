@@ -4,7 +4,8 @@ I'am 20 years old .NET Software Developer from Kazan, Russia
 
 Here are a few more facts about me:
 * Programming on C# for less than 1 year
-* I am into graphic design and beatmaking
+* I'm into graphic design and beatmaking
+* I'm currently looking for an internship or Junior position
 
 ## 🔧 Technologies & Tools
 ![C#](https://img.shields.io/badge/Code-CSharp-informational?style=flat-square&logo=csharp&logoColor=white&color=512BD4)
