@@ -3,7 +3,7 @@
 I'am 21 years old .NET Software Developer from Kazan, Russia
 
 Here are a few more facts about me:
-* Programming on C# for more than 1 year
+* Programming on C# for more than 2 years
 * I'm currently working at BARS Group company
 
 ## 🔧 Technologies & Tools
